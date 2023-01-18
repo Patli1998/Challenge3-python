@@ -16,7 +16,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 PyPoll Instructions
 
-the code I have created, for Pybank, Calculates the following
+the code I have created, for PyPoll, Calculates the following
 
 The total number of votes cast
 
